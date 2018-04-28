@@ -1,31 +1,36 @@
-#FamilyFinancePro
+# FamilyFinancePro
 
 userful practice when basicly apply winform.
 
-##get start
+## Get start
 
 this project that binding sql server and I dont published as exec full program, so if you'd like to inspect what happend in this source that I recommand you use visual studio load *.sln to open.
 
-##unfinished
+## Unfinished
 
 so this is unfininshed project while you couldnt even use it to show like demo, but you could implement more function that enriching this family finance software.
 
-##demo show
+## Demo
 
 > serval finished function demo show in this project.
 
 1. main ui
-![ui](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/6Ö÷½çÃæ.png)
+![ui](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/6ä¸»ç•Œé¢.png)
+
 2. CRUD
-![CRUD](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/7µãÑ¡¼ÇÂ¼ÊµÏÖÔöÉ¾¸Ä²é.png)
+![CRUD](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/7ç‚¹é€‰è®°å½•å®ç°å¢åˆ æ”¹æŸ¥.png)
+
 3. login ui
-![login ui](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/1µÇÂ¼½çÃæ.png)
+![login ui](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/1ç™»å½•ç•Œé¢.png)
+
 4. auth
-![auth](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/2ÑéÖ¤.png)
+![auth](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/2éªŒè¯.png)
+
 5. register
-![register](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/3×¢²á½çÃæ.png)
+![register](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/3æ³¨å†Œç•Œé¢.png)
+
 6. confirm sql server fields
-![confirm](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/5×Ö¶Î½øÈë±í.png)
+![confirm](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/5å­—æ®µè¿›å…¥è¡¨.png)
 
 ---
 
