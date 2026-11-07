@@ -1,24 +1,24 @@
 # FamilyFinancePro
 
-Userful practice when basicly apply winform.
+A family-finance application built as a Windows Forms learning project. It uses SQL Server for its data and includes forms for signing in, registering users, and managing financial records.
 
 ## Getting start
 
-This project that binding sql server and I dont published as exec full program, so if you'd like to inspect what happend in this source that I recommand you use visual studio load *.sln to open.
+Open [FamilyFinancePro/FamilyFinancePro.sln](FamilyFinancePro/FamilyFinancePro.sln) in Visual Studio to inspect the source. The application depends on SQL Server; this repository does not provide a packaged, ready-to-run executable.
 
 ## Unfinished
 
-So this is unfininshed project while you couldnt even use it to show like demo, but you could implement more function that enriching this family finance software.
+The project is unfinished. The screenshots below show individual features that were developed, rather than a complete application you can run as a demo. Further implementation is needed to turn the exercises into usable family-finance software.
 
 ## Demo
 
-Serval finished function demo show in this project.
+Screenshots of the implemented screens and operations:
 
 1. Main ui
 
   ![ui](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/6主界面.png)
 
-2. CRUD
+2. CRUD (create, read, update, and delete records)
 
   ![CRUD](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/7点选记录实现增删改查.png)
 
@@ -34,7 +34,7 @@ Serval finished function demo show in this project.
 
   ![register](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/3注册界面.png)
 
-6. Confirm sql server fields
+6. Records stored in SQL Server
 
   ![confirm](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/5字段进入表.png)
 
