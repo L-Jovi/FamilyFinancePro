@@ -1,0 +1,28 @@
+# Visual Studio build output and user state
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.pdb
+Thumbs.db
+
+# Secrets and device state must never be committed
+# (Repository Construction and Documentation Standard §5.4).
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.kdbx
+id_rsa*
+id_dsa*
+id_ecdsa*
+id_ed25519*
+!*.pub
+*htpasswd
+.netrc
+.git-credentials
+credentials*.json
+client_secret*.json

@@ -43,3 +43,7 @@ Screenshots of the implemented screens and operations:
 By the way, when I was newbie that starting .net winform, I usually find more resouce from internet to help me and some of those res is video.
 
 When you want to learn sth as first, you must need know how to mock and copy, this skill could help you make progress step by step.
+
+## License
+
+[MIT](LICENSE) © 2026 Jovi.
