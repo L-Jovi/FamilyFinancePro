@@ -16,27 +16,27 @@ Screenshots of the implemented screens and operations:
 
 1. Main ui
 
-  ![ui](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/6主界面.png)
+  ![ui](./demo/6主界面.png)
 
 2. CRUD (create, read, update, and delete records)
 
-  ![CRUD](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/7点选记录实现增删改查.png)
+  ![CRUD](./demo/7点选记录实现增删改查.png)
 
 3. Login UI
 
-  ![login ui](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/1登录界面.png)
+  ![login ui](./demo/1登录界面.png)
 
 4. Auth
 
-  ![auth](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/2验证.png)
+  ![auth](./demo/2验证.png)
 
 5. Register
 
-  ![register](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/3注册界面.png)
+  ![register](./demo/3注册界面.png)
 
 6. Records stored in SQL Server
 
-  ![confirm](https://raw.githubusercontent.com/L-Jovi/FamilyFinancePro/master/demo/5字段进入表.png)
+  ![confirm](./demo/5字段进入表.png)
 
 ## Thanks
 
